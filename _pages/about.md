@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Resident & Postdoc, Dept. of Psychiatry, Ruhr University Bochum, LWL University Hospital, Germany
+subtitle: Resident & Postdoc, <a href="https://psychiatrie.lwl-uk-bochum.de/forschung-und-lehre/forschung/forschungsbereiche/Experimentelle_Psychopathologie">Research Division for Experimental Psychopathology</a>, Dept. of Psychiatry, LWL University Hospital Bochum, Germany
 
 profile:
   align: right
