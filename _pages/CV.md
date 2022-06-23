@@ -9,7 +9,7 @@ nav_order: 2
 
 <b>2022: Medical doctorate (MD)</b><br>
 Project: Investigation of acute and chronic effects of amyloid beta on neuropathology and neurotransmitter receptor expression in the rodent hippocampus and associated areas.<br>
-Supervisor: Prof. Dr. Denise Manahan-Vaughan<br>
+Supervisor: Prof Denise Manahan-Vaughan<br>
 Department of Neurophysiology / International Graduate School of Neuroscience, Ruhr-University Bochum, Germany<br>
 
 <b>Since 2019: Resident in Psychiatry and Psychotherapy</b><br>
@@ -20,13 +20,13 @@ Head of department: Prof Georg Juckel<br>
 Dept. of Neurology and Clinical Neurophysiology, Klinikum Vest GmbH, Recklinghausen<br>
 Head of department: Prof Rüdiger Hilker-Roggendorf<br>
 
-<b>2015-2017: Research Assistant</b><br>
+<b>2015-2017: Student Research Assistant</b><br>
 Institute for Medical Ethics and History of Medicine, Ruhr University Bochum, Germany<br>
 Head of institute: Prof Jochen Vollmann<br>
 
-<b>2012-2017 Bachelor of Arts (B.A.) in Philosophy</b><br>
+<b>2012-2017: Bachelor of Arts (B.A.) in Philosophy</b><br>
 Ruhr-University Bochum, Germany<br>
 Bachelor’s thesis: Das Suizidverbot in Kants Grundlegung zur Metaphysik der Sitten: eine kritische Analyse [The prohibition on suicide in Kant’s Groundwork of the Metaphysics of Morals: a critical analysis]<br>
 
-<b>2010-2017 State Examination in Medicine</b><br>
+<b>2010-2017: State Examination in Medicine</b><br>
 Ruhr-University Bochum & University of Bonn, Germany
