@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/ # hier pdf verlinken
-title: Marco Kramer
+title: CV
 description: 
 nav: true
 nav_order: 2
