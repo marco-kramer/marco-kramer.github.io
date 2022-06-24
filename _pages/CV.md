@@ -7,28 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-margin-top: 2rem;
-  h1 {
-    color: var(--global-theme-color);
-    font-size: 2rem;
-    text-align: center;
-    margin-top: 1em;
-    margin-bottom: 1em;
-  }
-  h2 {
-    margin-bottom: 1rem;
-    span {
-      font-size: 1.5rem;
-    }
-  }
-  h2.year {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
-    margin-bottom: -2rem;
-    text-align: right;
-  }
+
+
+<hr style="height:1px;color:solid var(--global-divider-color)">
   
 <b>2022: Medical doctorate (MD)</b><br>
 Project: Investigation of acute and chronic effects of amyloid beta on neuropathology and neurotransmitter receptor expression in the rodent hippocampus and associated areas<br>
