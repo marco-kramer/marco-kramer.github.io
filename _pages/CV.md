@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /cv/ # hier pdf verlinken
-title: CV
-description: Find a short CV here.
+title: Marco Kramer
+description: 
 nav: true
 nav_order: 2
 ---
