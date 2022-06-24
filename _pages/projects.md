@@ -9,6 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+<hr style="height:1px;color:solid var(--global-divider-color)">
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
