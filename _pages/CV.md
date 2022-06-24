@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /cv/ # hier pdf verlinken
-title: CV
+permalink: /vita/ # hier pdf verlinken
+title: vita
 description: 
 nav: true
 nav_order: 2
