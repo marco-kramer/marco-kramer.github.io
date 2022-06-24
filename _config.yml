@@ -202,8 +202,7 @@ jekyll-archives:
 
 scholar:
 
-  last_name: [Kramer, Knoll]
-  first_name: [Marco, M.]
+  first_name: [Marco, M., Kramer, Knoll]
 
   style: apa
   locale: en
