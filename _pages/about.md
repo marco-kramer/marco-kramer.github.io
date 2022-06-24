@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>Resident & Postdoc, <a href="https://psychiatrie.lwl-uk-bochum.de/forschung-und-lehre/forschung/forschungsbereiche/Experimentelle_Psychopathologie">Research Division for Experimental Psychopathology</a>, Dept. of Psychiatry, LWL University Hospital Bochum, Germany</i>
+subtitle: >
 
 profile:
   align: right
@@ -14,10 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my page. I'm a 
+Welcome to my page. I'm a medical resident and postdoctoral researcher at the Department of Psychiatry of the LWL-University Hospital in Bochum, Germany, and its <a href="https://psychiatrie.lwl-uk-bochum.de/forschung-und-lehre/forschung/forschungsbereiche/Experimentelle_Psychopathologie">Research Division for Experimental Psychopathology</a>.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
